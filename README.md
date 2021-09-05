@@ -13,6 +13,20 @@ You will learn JSON, Database, File handling
 3.Records stored in record.json.
 4.Records updated.
 
+### Product Features
+Product ID
+Product Name
+Quantity
+Price 
+Manufacturing Date
+
+### Transaction Features
+Product ID
+Product Name
+Quantity
+Time
+Amount
+
 ### About
 I am Vaishnavi Nalawade, an ENTC engineering student. I am a passionate learner.
 
